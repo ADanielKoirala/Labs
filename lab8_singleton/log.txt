@@ -1,0 +1,6 @@
+Application started.
+Process A started.
+Process A completed.
+Process B started.
+Process B completed.
+Application ended.
