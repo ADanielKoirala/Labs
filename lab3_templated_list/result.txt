@@ -1,0 +1,4 @@
+Integer collection: adding 1 adding 2 adding 3 adding duplicate 2 
+1 2 3 2 
+removing 2 
+1 3 
